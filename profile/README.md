@@ -22,3 +22,7 @@ These repos were moved to my main profile ( `sohale` ) for focus to put my portf
 * https://github.com/sosi-org/webgl-exercise ⟶ https://github.com/sosi-org/webgl-exercise  (my OpenGL demo )
 * https://github.com/sosi-org/chaintree ⟶ https://github.com/sosi-org/chaintree (my new framework, my pre-invention of Linear-Logic, including a DSL )
 * https://github.com/sosi-org/planktons ⟶ https://github.com/sosi-org/planktons (my new framework: C++ memory management (I pre-invented whag tis now called "Arena"s ) )
+
+* https://github.com/sosi-org/REST-practice  ⟶ https://github.com/sohale/REST-practice ( REST and other protocols)
+* https://github.com/sosi-org/primsoup  ⟶ https://github.com/sohale/primsoup ( Physics: Lagrangian )
+* https://github.com/sosi-org/image-farms ⟶ https://github.com/sohale/image-farms ( a proper well-designed REST Web API for serving images via hash )
