@@ -2,6 +2,7 @@
 
 Sosi org
 So.Si.org
+Sosi Corp
 
 Sohail Siadat
 
